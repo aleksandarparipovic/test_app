@@ -8,6 +8,7 @@
 
 <script setup lang="ts">
 import { ref } from 'vue'
+import _ from 'tmo-poptoken-builder'
 
 const apiResponse = ref('')
 
